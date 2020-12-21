@@ -1,4 +1,4 @@
-# AKLab 6
+# AKLab 7
 ## Program code 
 ```c
 #include <linux/init.h>
